@@ -1,4 +1,4 @@
-# Clothing Fit Prediction in E-Commerce: Analyzing the Rent the Runway
+# Clothing Fit Prediction in E-Commerce
 
 **1. Introduction**
 Proper fit in clothing is essential for people's overall satisfaction
