@@ -1,7 +1,6 @@
 # Clothing Fit Prediction in E-Commerce: Analyzing the Rent the Runway
 
 **1. Introduction**
-
 Proper fit in clothing is essential for people's overall satisfaction
 with the clothing. Despite standardized sizing labels, individual body
 measurements vary, leading to diverse fit levels. To enhance the user's
