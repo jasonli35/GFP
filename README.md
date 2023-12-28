@@ -1,5 +1,4 @@
 # Clothing Fit Prediction in E-Commerce: Analyzing the Rent the Runway
-Data
 
 **1. Introduction**
 
